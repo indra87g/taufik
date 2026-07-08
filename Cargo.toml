@@ -1,0 +1,11 @@
+[package]
+name = "taufik"
+version = "0.1.0"
+edition = "2024"
+authors = ["indra87g <indra87g@proton.me>"]
+description = "People named Taufik are usually good at coding ."
+license = "MIT"
+repository = "https://github.com/indra87g/wildshade"
+readme = "README.md"
+keywords = ["taufik", "random"]
+categories = ["development-tools"]
